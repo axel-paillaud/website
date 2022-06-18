@@ -13,4 +13,4 @@ programmers and other users of Git.
 
 Here is a link of the [official Git Documentation.](https://git-scm.com/doc)
 
-Here is a direct link to the live page [hosted by git](https://shaun-maker.github.io/website/)
+Here is a direct link to the live page [hosted by Git](https://shaun-maker.github.io/website/)
